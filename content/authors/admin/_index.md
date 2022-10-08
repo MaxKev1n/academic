@@ -62,6 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architectur, micro-processor design and micro-architecture exploration. She is an intern at XiangShan group, Beijing Institue of Open Source Chip, which develops high-performance RISC-V processor.
+Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architectur, micro-processor design and micro-architecture exploration. He is an intern at XiangShan group, Beijing Institue of Open Source Chip, which develops high-performance RISC-V processor.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
