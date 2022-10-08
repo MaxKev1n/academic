@@ -25,7 +25,7 @@ experience:
   - title: Intern
     company: Beijing Institute of Open Source Chip
     company_url: 'https://www.bosc.ac.cn/'
-    company_logo: bosc
+    # company_logo: ''
     location: Beijing, China
     date_start: '2022-06-10'
     date_end: ''
