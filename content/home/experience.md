@@ -38,7 +38,7 @@ experience:
 
   - title: Teaching Asstant
     company: Nanjing University of Science and Technology
-    company_url: 'www.njust.edu.cn'
+    company_url: 'https://www.njust.edu.cn'
     # company_logo: org-x
     location: Nanjing, China
     date_start: '2022-08-23'
@@ -47,7 +47,7 @@ experience:
 
   - title: Teaching Asstant
     company: Nanjing University of Science and Technology
-    company_url: 'www.njust.edu.cn'
+    company_url: 'https://www.njust.edu.cn'
     # company_logo: org-x
     location: Nanjing, China
     date_start: '2021-11-01'
