@@ -18,10 +18,10 @@ content:
   # Contact details (edit or remove options as required)
   email: chenzihang@njust.edu.cn
   contact_links:
-    - icon: twitter
+    - icon: github
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: Github
+      link: https://github.com/maxkev1n
 
 design:
   columns: '2'
