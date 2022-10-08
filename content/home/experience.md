@@ -36,6 +36,15 @@ experience:
         * Explore speculative renaming
         * Implement decoupled frontend on GEM5
 
+  - title: Reasearch Asstant
+    company: Institute of Computing Technology, Chinese Academy of Science
+    company_url: 'http://www.ict.ac.cn/'
+    # company_logo: org-x
+    location: Beijing, China
+    date_start: '2022-03-01'
+    date_end: '2022-06-09'
+    description: Received comprehensive training and exploit NEMU to generate some workloads and checkpoints...
+
   - title: Teaching Asstant
     company: Nanjing University of Science and Technology
     company_url: 'https://www.njust.edu.cn'
