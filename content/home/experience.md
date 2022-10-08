@@ -32,18 +32,27 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Implement difftest and GCPT restorer
+        * Explore speculative renaming
+        * Implement decoupled frontend on GEM5
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching Asstant
+    company: Nanjing University of Science and Technology
+    company_url: 'www.njust.edu.cn'
+    # company_logo: org-x
+    location: Nanjing, China
+    date_start: '2022-08-23'
+    date_end: '2022-08-26'
+    description: Taught how to design a MIPS processor and use Vivado.
+
+  - title: Teaching Asstant
+    company: Nanjing University of Science and Technology
+    company_url: 'www.njust.edu.cn'
+    # company_logo: org-x
+    location: Nanjing, China
+    date_start: '2021-11-01'
+    date_end: '2021-11-15'
+    description: Taught how to design a MIPS processor and use Vivado.
 
 design:
   columns: '2'
