@@ -36,7 +36,7 @@ experience:
         * Explore speculative renaming
         * Implement decoupled frontend on GEM5
 
-  - title: Reasearch Asstant
+  - title: Reasearch Assistant
     company: Institute of Computing Technology, Chinese Academy of Science
     company_url: 'http://www.ict.ac.cn/'
     # company_logo: org-x
@@ -45,7 +45,7 @@ experience:
     date_end: '2022-06-09'
     description: Received comprehensive training and exploit NEMU to generate some workloads and checkpoints...
 
-  - title: Teaching Asstant
+  - title: Teaching Assistant
     company: Nanjing University of Science and Technology
     company_url: 'https://www.njust.edu.cn'
     # company_logo: org-x
@@ -54,7 +54,7 @@ experience:
     date_end: '2022-08-26'
     description: Taught how to design a MIPS processor and use Vivado.
 
-  - title: Teaching Asstant
+  - title: Teaching Assistant
     company: Nanjing University of Science and Technology
     company_url: 'https://www.njust.edu.cn'
     # company_logo: org-x
