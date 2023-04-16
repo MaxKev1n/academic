@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: The Hong Kong University of Science and Technology (Guangzhou)
+    company_url: 'http://hkust-gz.edu.cn'
+    # company_logo: ''
+    location: Guangzhou, China
+    date_start: '2023-03-01'
+    date_end: ''
+    description: focus on GPGPU architecture
+
   - title: Intern
     company: Beijing Institute of Open Source Chip
     company_url: 'https://www.bosc.ac.cn/'
     # company_logo: ''
     location: Beijing, China
     date_start: '2022-06-10'
-    date_end: ''
+    date_end: '2023-03-01'
     description: |2-
         Responsibilities include:
         
@@ -36,7 +45,7 @@ experience:
         * Explore speculative renaming
         * Implement decoupled frontend on GEM5
 
-  - title: Reasearch Assistant
+  - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Science
     company_url: 'http://www.ict.ac.cn/'
     # company_logo: org-x

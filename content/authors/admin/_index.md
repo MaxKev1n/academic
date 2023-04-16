@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chenzihang@njust.edu.cn'
+    link: 'mailto:zihangchen@hkust-gz.edu.cn'
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,6 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architecture, micro-processor design and micro-architecture exploration. He is an intern at XiangShan group, Beijing Institute of Open Source Chip, which develops high-performance RISC-V processor.
+Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architecture, micro-processor design and micro-architecture exploration. He was an intern at XiangShan group, Beijing Institute of Open Source Chip, which develops high-performance RISC-V processor. Now, he is a reasearch assistant in The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof LIU Hongyuan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
