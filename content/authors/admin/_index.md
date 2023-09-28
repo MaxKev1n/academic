@@ -37,7 +37,7 @@ education:
   courses:
     - course: Phd in Microelectronics
       institution: The Hong Kong University of Science and Technology (Guangzhou)
-      year: 2023-2027
+      year: 2023-expected
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
