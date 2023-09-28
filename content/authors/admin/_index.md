@@ -10,12 +10,14 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: Bachelor student of Computer Science and Technology
+role: Phd student of Microelectronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University of Science and Technology
     url: https://www.njust.edu.cn/
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
+    url: https://www.hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,6 +34,10 @@ education:
     - course: Bachelor in Computer Science and Technology
       institution: Nanjing University of Science and Technology
       year: 2019-2023
+  courses:
+    - course: Phd in Microelectronics
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2023-expected
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zihangchen@hkust-gz.edu.cn'
+    link: 'mailto:zchen097@connect.hkust-gz.edu.cn'
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architecture, micro-processor design and micro-architecture exploration. He was an intern at XiangShan group, Beijing Institute of Open Source Chip, which develops high-performance RISC-V processor. Now, he is a reasearch assistant in The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof LIU Hongyuan.
+Chen Zihang is a bachelor student of Computer Science and Technology at Nanjing University of Science and Technology. His research interests include computer architecture, micro-processor design and micro-architecture exploration. He used to be an intern at XiangShan group, Beijing Institute of Open Source Chip to develop high-performance RISC-V processor and implement some novel architectures on the simulators. Now, He is a first-year phd student in The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof LIU Hongyuan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

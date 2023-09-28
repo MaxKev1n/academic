@@ -28,7 +28,7 @@ experience:
     # company_logo: ''
     location: Guangzhou, China
     date_start: '2023-03-01'
-    date_end: ''
+    date_end: '2023-8-31'
     description: focus on GPGPU architecture
 
   - title: Intern

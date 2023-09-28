@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: chenzihang@njust.edu.cn
+  email: zchen097@connect.hkust-gz.edu.cn
   contact_links:
     - icon: github
       icon_pack: fab
