@@ -29,7 +29,7 @@ experience:
     location: Guangzhou, China
     date_start: '2023-03-01'
     date_end: '2023-08-31'
-    description: focus on GPGPU architecture
+    description: focus on GPGPU architecture and CUDA programming
 
   - title: Intern
     company: Beijing Institute of Open Source Chip
